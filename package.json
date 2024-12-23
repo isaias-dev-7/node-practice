@@ -1,0 +1,14 @@
+{
+  "name": "isa",
+  "version": "1.0.0",
+  "main": "isaias.js",
+  "type": "module",
+  "scripts": {
+    "isa": "node isa.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "isaiasosoria7@gmail.com",
+  "license": "ISC",
+  "description": ""
+}
